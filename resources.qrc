@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/image.png</file>
+        <file>images/icon.ico</file>
+
+        <file>sounds/correct.wav</file>
+        <file>sounds/wrong.wav</file>
+        <file>sounds/warning.wav</file>
+        <file>sounds/finish.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+#labelTitle {
+    color: #111827;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+#labelUsername,
+#labelPassword {
+    color: #4b5563;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#labelOverlayTitle {
+    color: white;
+    font-size: 32px;
+    font-weight: 800;
+    background-color: rgba(37, 99, 235, 150);
+    padding: 12px 24px;
+    border-radius: 16px;
+}
+
+#labelOverlaySubtitle {
+    color: rgba(255,255,255,0.95);
+    font-size: 18px;
+    font-weight: 500;
+}
